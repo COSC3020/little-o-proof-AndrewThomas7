@@ -17,6 +17,12 @@ might help with the notation for mathematical expressions.
 
 $f(n)\in o(g(n)) \iff \forall c>0, \exists n_0, \forall n\ge n_0: f(n) < c g(n)$
 
+“I certify that I have listed all sources used to complete this exercise, including the use
+of any Large Language Models. All of the work is my own, except where stated
+otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is
+suspected, charges may be filed against me without prior notice.”-Andrew Thomas
+
+
 
 ## <span style="color: #f2cf4a; font-family: Babas; font-size: 2em;"> The Differences between Big-O and Little-O</span>
 
@@ -56,4 +62,12 @@ If this doesn't seem convincing look at the two number lines below
 Here we can use the figures above as an analogy for the logic. The first interval is strictly less than 3 and the second number line is less than or equal to containing all points less than 3 and the number 3. This is a good visualization becasue it essentially shows us that the first line is a subset of the second. Aka it is contained within the set that contains 3. Thus we can say if something is less than it is also less than or equal to.
 
 Q.E.D
+
+
+## Sources
+
+n0.1-https://www.geogebra.org/graphing-Used for graphics
+
+n0.2-https://www.reddit.com/r/learnmath/comments/l1q8qq/how_does_x_y_imply_x_y/ 
+ -Dicusssion post on the logic of less than and less than or equal
 
